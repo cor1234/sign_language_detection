@@ -1,0 +1,2 @@
+import os
+os.system("python C:/Users/rohan/Downloads/yolov5-master/yolov5-master/detect.py --weights C:/Users/rohan/Downloads/yolov5-master/yolov5-master/best_600epochs.pt --img 416 --conf 0.5 --source 0")
